@@ -39,6 +39,6 @@ Sprint sonunda, Takım ismine ve takım rollerine karar verildi, Geliştirilmesi
 - Ne kötü gitti?
 - Neleri geliştirebiliriz?
 
-# Ürün İş listesi URL’si; Liste için tıklayınız (Trello)
+# Ürün İş listesi URL’si; https://trello.com/b/OANZL5P2/oyun-uygulama-akademisi (Trello)
 
 
