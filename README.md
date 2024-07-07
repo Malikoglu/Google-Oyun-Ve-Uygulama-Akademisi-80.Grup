@@ -24,7 +24,7 @@ Bu proje, not tutma, günlük yazma, iş yapma listesi oluşturma ve ilaç alma 
 
 
 # Sprint 1 için Tamamlanması beklenen puan: 100
-Puan Tamamlama Mantığı: Toplam 380 puan üzerinden gidilecek. Üç ayrı sprinte böldüğümüz de ilk sprint için 100, ikinci sprint 140 son sprint de 140 puan şeklinde düşünülmüşür.
+# Puan Tamamlama Mantığı:(120 puan tamamlandı) Toplam 380 puan üzerinden gidilecek. Üç ayrı sprinte böldüğümüz de ilk sprint için 100, ikinci sprint 140 son sprint de 140 puan şeklinde düşünülmüşür.
 
 
 # Daily Scrum
