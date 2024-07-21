@@ -41,4 +41,31 @@ Sprint sonunda, Takım ismine ve takım rollerine karar verildi, Geliştirilmesi
 
 # Ürün İş listesi URL’si; https://trello.com/b/OANZL5P2/oyun-uygulama-akademisi (Trello)
 
+## Sprint 2
+
+# Sprint 2 için Tamamlanması beklenen puan: 140
+
+### Daily Scrum Toplantıları
+
+Günlük toplantılar WhatsApp ve Discord üzerinden gerçekleştirildi. Yoğunluk ve KPSS dönemi nedeniyle grup toplantıları WhatsApp üzerinden ağırlıklı olarak yapıldı.
+
+### Sprint Board Güncellemesi
+
+Sprint öncesinde ürün backlog'unda bulunan hikayeler gözden geçirildi ve aşağıdaki hikayeler 2. sprint için seçildi:
+
+- Günlük sayfasının prototipini geliştir
+- Liste sayfasının prototipini geliştir
+- Not tutma sayfasının prototipini geliştir
+- Hatırlatıcı sayfasının prototipini geliştir
+
+### Sprint Retrospektif Toplantısı
+
+Sprint sonunda toplamda 140 puan elde edildi. Retrospektif toplantısında şu konular ele alındı:
+
+- Prototiplerin geliştirilme sürecinde işbirliği ve iletişime daha fazla odaklanılması gerekiyor.
+- Sayfaların kullanılabilirliği ve tasarımında iyileştirmeler yapılabilir.
+- Sayfa tasarımları bazı zamanlarda ekip üyeleri arasında bölünmüş olsa da, iş yoğunluğu olan zamanlarda yardımlaşma önemlidir.
+- Yaz stajı ve sınav durumları nedeniyle grup toplantıları WhatsApp üzerinden yapıldı.
+- Yoğunluk nedeniyle eklenmesi istenen bazı özellikler reddedildi.
+
 
