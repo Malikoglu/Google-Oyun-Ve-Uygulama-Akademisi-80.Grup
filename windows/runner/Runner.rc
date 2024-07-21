@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bootcamp80" "\0"
+            VALUE "FileDescription", "simple_todo" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bootcamp80" "\0"
+            VALUE "InternalName", "simple_todo" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bootcamp80.exe" "\0"
-            VALUE "ProductName", "bootcamp80" "\0"
+            VALUE "OriginalFilename", "simple_todo.exe" "\0"
+            VALUE "ProductName", "simple_todo" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
