@@ -43,7 +43,7 @@ Sprint sonunda, Takım ismine ve takım rollerine karar verildi, Geliştirilmesi
 
 ## Sprint 2
 
-# Sprint 2 için Tamamlanması beklenen puan: 140
+### Sprint 2 için Tamamlanması beklenen puan: 140
 
 ### Daily Scrum Toplantıları
 
