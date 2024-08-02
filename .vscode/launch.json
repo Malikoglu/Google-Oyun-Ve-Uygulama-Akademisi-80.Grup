@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main",
+            "cwd": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main (profile mode)",
+            "cwd": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main (release mode)",
+            "cwd": "Google-Oyun-Ve-Uygulama-Akademisi-80.Grup-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
