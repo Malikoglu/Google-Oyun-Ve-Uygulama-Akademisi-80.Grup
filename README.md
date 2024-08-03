@@ -138,4 +138,5 @@ Sürecin sonuna gelirken, birlikte bir projeyi hazırlayabildiğimiz için gurur
 
 
 ![Logo]![sprint3](https://github.com/user-attachments/assets/21fbf4f9-46dc-4def-9c27-db3d5ef92d1c)
+![2 deneme](https://github.com/user-attachments/assets/3b6d0422-cde8-4ba4-b050-5409ae9d49a7)
 
